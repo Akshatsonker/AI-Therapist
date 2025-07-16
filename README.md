@@ -135,36 +135,7 @@ const detectStressSignals = (message: string): StressPrompt | null => {
 };
 ```
 
-## 🚀 Getting Started
 
-1. **Clone & Install**
-
-   ```bash
-   git clone https://github.com/blocklinklabs/aura3.0.git
-   cd aura3.0
-   npm install
-   ```
-
-2. **Configure Environment**
-
-   ```bash
-   cp .env.example .env
-   # Add required API keys:
-   # - SONIC_PRIVATE_KEY
-   # - GEMINI_API_KEY
-   # - ZEREPY_API_KEY
-   ```
-
-3. **Deploy Smart Contracts**
-
-   ```bash
-   npx hardhat run scripts/deploy.ts --network sonic_blaze_testnet
-   ```
-
-4. **Start Development Server**
-   ```bash
-   npm run dev
-   ```
 
 ## 📈 Performance Metrics
 
@@ -211,23 +182,11 @@ const detectStressSignals = (message: string): StressPrompt | null => {
 - Advanced analytics
 - Expanded integrations
 
-## 🤝 Contributing
-
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE)
-
 ## 🌟 Acknowledgments
 
 - Sonic
 - Zerepy AI Framework
 - Mental Health Professionals
-- Open Source Community
 
 ---
 
-<p align="center">
-Built with ❤️ on Sonic Blaze Testnet and Zerepy for better mental health
-</p>
