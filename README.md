@@ -11,6 +11,7 @@
 ## 📸 Project Showcase
 ![Aura preview](aura-dashboard.png)
 ![AI Interaction](AI-Interaction.png)
+![Therapy Session](therapy-session.png)
 
 ## 🌟 Key Features
 
